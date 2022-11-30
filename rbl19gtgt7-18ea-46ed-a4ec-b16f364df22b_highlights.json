@@ -1,0 +1,442 @@
+{
+    "status": "success",
+    "results": [
+        {
+            "count": 10,
+            "rank": 0.09,
+            "text": "missing data",
+            "timestamps": [
+                {
+                    "start": 3471920,
+                    "end": 3472875
+                },
+                {
+                    "start": 3506632,
+                    "end": 3507377
+                },
+                {
+                    "start": 3508445,
+                    "end": 3509402
+                },
+                {
+                    "start": 3512090,
+                    "end": 3512837
+                },
+                {
+                    "start": 3577670,
+                    "end": 3578672
+                },
+                {
+                    "start": 3586715,
+                    "end": 3587372
+                },
+                {
+                    "start": 3659720,
+                    "end": 3660407
+                },
+                {
+                    "start": 3686855,
+                    "end": 3687392
+                },
+                {
+                    "start": 3689705,
+                    "end": 3690675
+                },
+                {
+                    "start": 4451552,
+                    "end": 4452537
+                }
+            ]
+        },
+        {
+            "count": 12,
+            "rank": 0.08,
+            "text": "data sets",
+            "timestamps": [
+                {
+                    "start": 230230,
+                    "end": 230847
+                },
+                {
+                    "start": 249712,
+                    "end": 250497
+                },
+                {
+                    "start": 479305,
+                    "end": 479997
+                },
+                {
+                    "start": 481257,
+                    "end": 481782
+                },
+                {
+                    "start": 2433035,
+                    "end": 2433772
+                },
+                {
+                    "start": 2970590,
+                    "end": 2971342
+                },
+                {
+                    "start": 3194087,
+                    "end": 3195022
+                },
+                {
+                    "start": 4184165,
+                    "end": 4184677
+                },
+                {
+                    "start": 4205837,
+                    "end": 4206622
+                },
+                {
+                    "start": 4793005,
+                    "end": 4793742
+                },
+                {
+                    "start": 4798855,
+                    "end": 4799427
+                },
+                {
+                    "start": 4816012,
+                    "end": 4816782
+                }
+            ]
+        },
+        {
+            "count": 4,
+            "rank": 0.08,
+            "text": "other data",
+            "timestamps": [
+                {
+                    "start": 248755,
+                    "end": 250117
+                },
+                {
+                    "start": 1836622,
+                    "end": 1837055
+                },
+                {
+                    "start": 3445265,
+                    "end": 3446282
+                },
+                {
+                    "start": 4937890,
+                    "end": 4938517
+                }
+            ]
+        },
+        {
+            "count": 34,
+            "rank": 0.08,
+            "text": "missing values",
+            "timestamps": [
+                {
+                    "start": 146095,
+                    "end": 146877
+                },
+                {
+                    "start": 2430080,
+                    "end": 2430847
+                },
+                {
+                    "start": 2849705,
+                    "end": 2850997
+                },
+                {
+                    "start": 2924762,
+                    "end": 2926117
+                },
+                {
+                    "start": 2938460,
+                    "end": 2939272
+                },
+                {
+                    "start": 2996705,
+                    "end": 2998062
+                },
+                {
+                    "start": 3345380,
+                    "end": 3346267
+                },
+                {
+                    "start": 3357215,
+                    "end": 3358072
+                },
+                {
+                    "start": 3442835,
+                    "end": 3443827
+                },
+                {
+                    "start": 3460145,
+                    "end": 3461527
+                },
+                {
+                    "start": 3465727,
+                    "end": 3466962
+                },
+                {
+                    "start": 3498215,
+                    "end": 3499327
+                },
+                {
+                    "start": 3561680,
+                    "end": 3562402
+                },
+                {
+                    "start": 3666337,
+                    "end": 3667312
+                },
+                {
+                    "start": 3699635,
+                    "end": 3700522
+                },
+                {
+                    "start": 3703562,
+                    "end": 3704707
+                },
+                {
+                    "start": 3706295,
+                    "end": 3707047
+                },
+                {
+                    "start": 3714305,
+                    "end": 3715102
+                },
+                {
+                    "start": 4021072,
+                    "end": 4021927
+                },
+                {
+                    "start": 4055932,
+                    "end": 4056697
+                },
+                {
+                    "start": 4057252,
+                    "end": 4058092
+                },
+                {
+                    "start": 4094707,
+                    "end": 4095502
+                },
+                {
+                    "start": 4096717,
+                    "end": 4098022
+                },
+                {
+                    "start": 4179065,
+                    "end": 4180222
+                },
+                {
+                    "start": 4215890,
+                    "end": 4216702
+                },
+                {
+                    "start": 4257532,
+                    "end": 4258812
+                },
+                {
+                    "start": 4337467,
+                    "end": 4338202
+                },
+                {
+                    "start": 4608080,
+                    "end": 4609375
+                },
+                {
+                    "start": 4639425,
+                    "end": 4640315
+                },
+                {
+                    "start": 4824025,
+                    "end": 4824942
+                },
+                {
+                    "start": 4861480,
+                    "end": 4862322
+                },
+                {
+                    "start": 4879240,
+                    "end": 4880537
+                },
+                {
+                    "start": 4925305,
+                    "end": 4926072
+                },
+                {
+                    "start": 4934980,
+                    "end": 4936107
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.08,
+            "text": "impute missing values",
+            "timestamps": [
+                {
+                    "start": 3665612,
+                    "end": 3667312
+                },
+                {
+                    "start": 4056742,
+                    "end": 4058092
+                },
+                {
+                    "start": 4336730,
+                    "end": 4338202
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.08,
+            "text": "different data tables",
+            "timestamps": [
+                {
+                    "start": 281362,
+                    "end": 283262
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.07,
+            "text": "delete missing values",
+            "timestamps": [
+                {
+                    "start": 3701837,
+                    "end": 3704707
+                },
+                {
+                    "start": 4055510,
+                    "end": 4056697
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "other data sets",
+            "timestamps": [
+                {
+                    "start": 248755,
+                    "end": 250497
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "random data",
+            "timestamps": [
+                {
+                    "start": 3769595,
+                    "end": 3770582
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "imputed data",
+            "timestamps": [
+                {
+                    "start": 4672772,
+                    "end": 4674237
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.07,
+            "text": "continuous data",
+            "timestamps": [
+                {
+                    "start": 3329855,
+                    "end": 3330572
+                },
+                {
+                    "start": 3372230,
+                    "end": 3373352
+                },
+                {
+                    "start": 3407345,
+                    "end": 3408092
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "airport metadata data",
+            "timestamps": [
+                {
+                    "start": 451675,
+                    "end": 453050
+                }
+            ]
+        },
+        {
+            "count": 4,
+            "rank": 0.07,
+            "text": "relational data",
+            "timestamps": [
+                {
+                    "start": 164020,
+                    "end": 165425
+                },
+                {
+                    "start": 204325,
+                    "end": 205550
+                },
+                {
+                    "start": 411430,
+                    "end": 412267
+                },
+                {
+                    "start": 798595,
+                    "end": 799747
+                }
+            ]
+        },
+        {
+            "count": 4,
+            "rank": 0.07,
+            "text": "categorical data",
+            "timestamps": [
+                {
+                    "start": 3330710,
+                    "end": 3332027
+                },
+                {
+                    "start": 3359495,
+                    "end": 3360750
+                },
+                {
+                    "start": 3374225,
+                    "end": 3375512
+                },
+                {
+                    "start": 3408620,
+                    "end": 3409697
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.07,
+            "text": "data exploration",
+            "timestamps": [
+                {
+                    "start": 3285305,
+                    "end": 3286147
+                },
+                {
+                    "start": 3326030,
+                    "end": 3327172
+                }
+            ]
+        }
+    ]
+}

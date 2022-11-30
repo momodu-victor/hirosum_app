@@ -1,0 +1,65 @@
+[
+    {
+        "summary": "Get started and then I will try to also share the screen so that you get basically then also to see what we are going to talk about today. Now I have again the echo which I didn't want to have. What are we aiming at today?",
+        "gist": "Let's get started",
+        "headline": "Get started and then I will try to also share the screen so that you get an overview of what we are discussing today",
+        "start": 2487,
+        "end": 101602
+    },
+    {
+        "summary": "Today we will be talking more about actually getting a data set prepared. We will talk about relational data, which typically means we have data stored in multiple tables and pairwise. What we would like to have is a larger data set where we add and combine variables from different data tables.",
+        "gist": "Data science",
+        "headline": "Today we will talk about relational data, which typically means multiple tables",
+        "start": 101695,
+        "end": 1001300
+    },
+    {
+        "summary": "Checking for uniqueness is a mandatory part for having a key identifier. It also can help to find out duplicates that shouldn't be there. Tables need not have an explicit key as implicitly. Some relationships are not unique.",
+        "gist": "Handling data with a single key",
+        "headline": "Checking for uniqueness of certain observations can help identify possible errors",
+        "start": 1001737,
+        "end": 1553105
+    },
+    {
+        "summary": "There are four different joint operations that we have left join, right join, inner join, join. They allow us to combine variables from two tables and they have first to be matched via the keys. One of the reasons why things are split over multiple tables because you can actually store them also more efficiently.",
+        "gist": "Microsoft SQL Server",
+        "headline": "Joint operations allow us to combine variables from two tables",
+        "start": 1553302,
+        "end": 2846250
+    },
+    {
+        "summary": "If you have a data set where none of the variables is complete, you definitely need to introduce to say the row numbers as your unique identifier. Be aware that simply checking the number of rows before and after the join is sometimes not sufficient. You also might find data entry errors.",
+        "gist": "Making a Right Join and Anti-Join",
+        "headline": "You need to make sure your foreign keys match primary keys in another table",
+        "start": 2847887,
+        "end": 3238697
+    },
+    {
+        "summary": "You often separate continuous from categorized data. Also the question of missing values. The procedures that you use to impute values differ for continuous and categorical data. The two next steps that quite often come are on the one hand dimensionality reduction. Then comes the model training which we will deal in more detail with next week.",
+        "gist": "Data preprocessing and data aggregation",
+        "headline": "Now a little bit into the data preprocessing step. We might do that by data exploration and visualization",
+        "start": 3238730,
+        "end": 3457725
+    },
+    {
+        "summary": "The first thing is to identify the missing data. For some missing data there might actually be not just a good explanation but actually something else. From a statistical perspective we differentiate three different reasons or three different categories of missing. Once data is missing completely at random, you can argue with in all directions what to do.",
+        "gist": "Identifying the Missing Data in the Flight Data Set",
+        "headline": "There are numerous missing values in the Flights data set",
+        "start": 3459212,
+        "end": 4363512
+    },
+    {
+        "summary": "Is there a percentage of tolerance for the mission of value so as not to impact the credibility of outputs? There is no really good threshold, I have to say. It depends on too many different aspects in the end. Further questions.",
+        "gist": "Minimum threshold for the number of missing data",
+        "headline": "Is there a tolerance for missing data so as not to impact credibility of outputs",
+        "start": 4365362,
+        "end": 4776742
+    },
+    {
+        "summary": "Time series data has due to its consecutive structure. It actually offers a little bit more help as to say the lean score between two values if the one in the middle is missing. There clearly are some advantages for a time series with missing values. We can continue also discussions and questions and answers at 215 when we start again.",
+        "gist": "COVID-19 and missing values",
+        "headline": "We are currently working on data sets related to COVID-19",
+        "start": 4776790,
+        "end": 4974962
+    }
+]
