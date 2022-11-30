@@ -1,0 +1,2 @@
+streamlit==1.15.1
+streamlit_player==0.1.5
